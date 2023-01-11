@@ -2,7 +2,7 @@ import React from "react";
 
 function Article() {
   return (
-    <div>Dear Reader: Bjarne Stroustrup has the perfect lecture oration.</div>
+    <div>Dear Reader: I am of the strong opinion that Bjarne Stroustrup has the perfect lecture oration.</div>
   );
 }
 
